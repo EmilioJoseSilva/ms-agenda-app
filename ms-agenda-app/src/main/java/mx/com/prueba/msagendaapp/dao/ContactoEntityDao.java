@@ -86,6 +86,7 @@ public class ContactoEntityDao {
 			ContactoEntity row = list.get(i);
 			if(row.getIdContacto() == contactoEntity.getIdContacto()) {
 				row = contactoEntity;
+				list.remove(i);
 				list.add(i, row);
 				return row;
 			}
