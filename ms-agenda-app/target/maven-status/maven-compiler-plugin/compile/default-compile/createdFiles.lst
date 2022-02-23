@@ -1,0 +1,6 @@
+mx\com\prueba\msagendaapp\dao\ContactoEntityDao.class
+mx\com\prueba\msagendaapp\MsAgendaAppApplication.class
+mx\com\prueba\msagendaapp\service\MsAgendaServiceApp.class
+mx\com\prueba\msagendaapp\dao\ContactoEntity.class
+mx\com\prueba\msagendaapp\controller\MsAgendaAppController.class
+mx\com\prueba\msagendaapp\service\MsAgendaServiceAppImpl.class
